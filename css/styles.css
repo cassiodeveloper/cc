@@ -56,7 +56,6 @@ body.coming-soon-template section {
   body.coming-soon-template section .logo {
     margin-top: 50px; }
     body.coming-soon-template section .logo img {
-      max-height: 35px;
       margin-left: auto;
       margin-right: auto; }
   body.coming-soon-template section .days, body.coming-soon-template section .hours, body.coming-soon-template section .minutes, body.coming-soon-template section .seconds {
